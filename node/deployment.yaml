@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: arunmagi/node-app
+        image: gvignesh17/node-image
         ports:
         - containerPort: 9000
 
